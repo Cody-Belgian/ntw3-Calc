@@ -1,4 +1,4 @@
-# ntw3-Calc
+# ntw3-Calculator
 Software for game Napoleon Total War with mod NTW3
 Programme: NTW3 Calculator
 Version: 1.2.2
